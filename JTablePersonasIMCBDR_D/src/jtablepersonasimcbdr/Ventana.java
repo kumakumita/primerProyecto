@@ -45,7 +45,7 @@ public class Ventana extends JFrame {
         this.setTitle("Personas-IMC");
         this.setLocationRelativeTo(null);
         this.setResizable(false);
-        this.setSize(500,550);
+        this.setSize(500,600);
         this.setVisible(true);
     }
     
